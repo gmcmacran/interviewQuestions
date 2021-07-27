@@ -1,0 +1,1 @@
+This repo is a collection of technical programming questions I have been asked during data science interviews.
